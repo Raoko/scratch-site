@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+.user-block {
+    padding: 15px;
+    display: flex;
+    justify-content: center; 
+}
+
+.user {
+    text-align: center;
+    padding-top: 25px;
+    margin: 2px;
+    width: 400px;
+    height: 90vh;
+    background-color: #E0F2F1;
+}
+
+.body {
+    text-align: center;
+    padding-top: 25px;
+    margin: 2px 0px 0px 15px;;
+    width: 2000px;;
+    height: 90vh;
+    background-color: #E0F2F1;
+}
+
+.user-pic {
+    padding: 5px;
+    margin-top: 15px;
+    height: 160px;
+    border-radius: 50%;
+}
+.para-1 {
+    padding-top: 15px;
+    color: blue;
+}
+
+footer {
+    text-align: center;
+}
